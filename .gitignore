@@ -1,0 +1,8 @@
+checkpoints/
+channel_checkpoints/
+channel_results/
+results/
+personmodels/
+personmodels_mean_data_12.14/
+personmodels_mean_data_12.15/
+personmodels_random_data/
